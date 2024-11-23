@@ -8,7 +8,7 @@ body {
 header {
     background: #333;
     color: #fff;
-    padding: 10px 0;
+    padding: 29px 0;
     text-align: center;
 }
 
@@ -50,7 +50,7 @@ footer {
     text-align: center;
     padding: 10px 0;
     background: #333;
-    color: #fff;
+    color: #ffff;
     position: relative;
     bottom: 0;
     width: 100%;
